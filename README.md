@@ -44,7 +44,7 @@ game assignment for O.O.P. semester 2 year 2
   
   ![ending](https://github.com/LydiaHasBurdens/Escape_The_Dungeon/blob/master/Main_Game/data/ending.jpg?raw=true)
   
-  fight scene:
+  Controls:
   
-  ![FightScene]()
+  ![Controls](https://github.com/LydiaHasBurdens/Escape_The_Dungeon/blob/master/Main_Game/data/Controls.jpg?raw=true)
 
