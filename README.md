@@ -1,7 +1,7 @@
 # Escape_The_Dungeon
 game assignment for O.O.P. semester 2 year 2
 
- #Overview:
+ Overview:
  Design and code a game in processing using what I've learnt so far.
  game needs to:
  -look good,  
@@ -11,7 +11,7 @@ game assignment for O.O.P. semester 2 year 2
  -have classes
  -load from text files
   
-  #My Game:
+  My Game:
   I've designed a 2D maze-based dungeon escape game.
   Based on the difficulty you choose you have a varied amount of lives and time to escape.
   All sprites were designed and drawn by me.
@@ -25,8 +25,26 @@ game assignment for O.O.P. semester 2 year 2
   Also attack points depends on the attack you choose and whether or not you hit or miss
   Added screens for the main menu, game over and ending scenarios
   
-  #CONTROLS:
+  CONTROLS:
   -WSAD buttons for movement
   -LEFT CLICK and ENTER for fight scenes
   -numbers to select difficulty
+  
+  IMAGES:
+  
+  main menu:
+  
+  ![mainMenu](https://github.com/LydiaHasBurdens/Escape_The_Dungeon/blob/master/Main_Game/data/mainMenu.jpg?raw=true)
+  
+  Game Over Screen:
+  
+  ![Game Over](https://github.com/LydiaHasBurdens/Escape_The_Dungeon/blob/master/Main_Game/data/GameOver.jpg?raw=true)
+  
+  Ending Screen:
+  
+  ![ending](https://github.com/LydiaHasBurdens/Escape_The_Dungeon/blob/master/Main_Game/data/ending.jpg?raw=true)
+  
+  fight scene:
+  
+  ![FightScene]()
 
