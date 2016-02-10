@@ -2,14 +2,14 @@
 game assignment for O.O.P. semester 2 year 2
 
  #Overview:
-  Design and code a game in processing using what I've learnt so far.
-  game needs to:
-  -look good, 
-  -have multiple modes/screens,
-  -have functionality
-  -progression/powerups
-  -have classes
-  -load from text files
+ Design and code a game in processing using what I've learnt so far.
+ game needs to:
+ -look good,  
+ -have multiple modes/screens,
+ -have functionality
+ -progression/powerups
+ -have classes
+ -load from text files
   
   #My Game:
   I've designed a 2D maze-based dungeon escape game.
@@ -25,7 +25,7 @@ game assignment for O.O.P. semester 2 year 2
   Also attack points depends on the attack you choose and whether or not you hit or miss
   Added screens for the main menu, game over and ending scenarios
   
-  CONTROLS:
+  #CONTROLS:
   -WSAD buttons for movement
   -LEFT CLICK and ENTER for fight scenes
   -numbers to select difficulty
